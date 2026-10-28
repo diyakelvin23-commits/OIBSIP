@@ -321,12 +321,3 @@ defensive resources.
     of Standards and Technology.
     https://doi.org/10.6028/NIST.SP.800-81r3
 
-## Before submitting
-
--   Replace **\[Your Full Name\]** and **\[Insert submission date\]**.
--   Review the report and make sure you can explain each threat and
-    mitigation in your own words.
--   Open the references and verify the details before submission.
--   Save this file as `network_security_threats_report.md` inside your
-    Task 4 folder in the `OIBSIP` repository.
--   The task instructions say no demo video is required for Task 4.
